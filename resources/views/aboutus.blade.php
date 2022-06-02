@@ -591,6 +591,17 @@ header .fa-bars{
 
             </style>
 
+
+            <!-- <?php
+//    foreach ($arr as $A) {
+
+//    print_r($A["name"]);
+     
+//    print_r($A["postion"]);
+//       echo "<br>";
+ 
+//    }
+?>  -->
             
 <section class="about" id="about">
 
@@ -611,6 +622,8 @@ header .fa-bars{
     </div>
 
 </div>
+
+
 
 </section>
 </body>

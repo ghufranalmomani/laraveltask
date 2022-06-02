@@ -337,9 +337,9 @@ header .fa-bars{
     <a href="#" class="logo">CANDY<span></span></a>
 
     <nav class="navbar">
-        <a href="#home">home</a>
-        <a href="#about">about</a>
-        <a href="#contact">contact</a>
+        <a href="{{ url('/home') }}">home</a>
+        <a href="{{ url('/aboutus') }}">aboutus</a>
+        <a href="{{ url('/contactus') }}">contactus</a>
     </nav>
 
     <div class="icons">
